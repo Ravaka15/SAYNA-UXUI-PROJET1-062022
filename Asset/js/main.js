@@ -2,7 +2,7 @@
 
 const navMenu = document.getElementById('sidebar'),
       navToggle =document.getElementById('nav-toggle'),
-      naClose = document.getElementById('nav-close')
+      navClose = document.getElementById('nav-close')
 
 /*=============Show sidebar=========*/
 /*=============validate  if Constant Exists=========*/
